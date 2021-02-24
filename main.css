@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #3D4F5A;
+    font-weight: 520;
+}
+
+.container1 {
+    padding: 30px 200px;
+    padding-bottom: 1000px;
+}
+
+
+#list1, #list2, #right_num {
+    color: #A8A2AF;
+    margin-top: 5px;
+}
+
